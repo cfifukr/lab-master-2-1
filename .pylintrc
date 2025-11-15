@@ -1,0 +1,9 @@
+[MASTER]
+ignore=tests
+output-format=text
+
+[MESSAGES CONTROL]
+disable=C0114,C0115,C0116 ; вимкнено декілька попереджень
+
+[FORMAT]
+max-line-length=100
